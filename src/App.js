@@ -1,11 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
 import { useEffect, useState } from 'react/cjs/react.development';
 import fakedata from './component/Fake Data/players_data.json'
 
 function App() {
 
-  const [data, setData] = useState({});
+  // const [data, setData] = useState({});
 
   useEffect(()=> {
     console.log(fakedata)
