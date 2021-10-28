@@ -1,5 +1,5 @@
 import './App.css';
-import { useEffect, useState } from 'react/cjs/react.development';
+import { useEffect} from 'react/cjs/react.development';
 import fakedata from './component/Fake Data/players_data.json'
 
 function App() {
