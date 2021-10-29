@@ -16,7 +16,7 @@ function App() {
       <h1>Hello</h1>
       
       <a
-        href="https://wa.me/01787118444"
+        href="https://wa.me/8801787118444"
         class="whatsapp_float"
         target="_blank"
         rel="noopener noreferrer"
