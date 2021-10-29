@@ -1,6 +1,6 @@
 import './App.css';
 // import { useEffect} from 'react/cjs/react.development';
-import fakedata from './component/Fake Data/players_data.json'
+// import fakedata from './component/Fake Data/players_data.json'
 
 function App() {
 
